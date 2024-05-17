@@ -1,0 +1,127 @@
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\Borisov pr-3.csproj.AssemblyReference.cache
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\Borisov pr-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\MainWindow.g.cs
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\Pages\Autho.g.cs
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\Pages\Client.g.cs
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\App.g.cs
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\Borisov pr-3_MarkupCompile.cache
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\Borisov pr-3_MarkupCompile.lref
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\bin\Debug\Borisov pr-3.exe.config
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\bin\Debug\Borisov pr-3.exe
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\bin\Debug\Borisov pr-3.pdb
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\App.baml
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\MainWindow.baml
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\Pages\Autho.baml
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\Pages\Client.baml
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\Borisov pr-3.g.resources
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\Borisov_pr_3.Properties.Resources.resources
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\Borisov pr-3.csproj.GenerateResource.cache
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\Borisov pr-3.csproj.CoreCompileInputs.cache
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\Borisov pr-3.exe
+C:\Users\pr-21.103k-bf\source\repos\Borisov pr-3\Borisov pr-3\obj\Debug\Borisov pr-3.pdb
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\bin\Debug\Borisov pr-3.exe.config
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\bin\Debug\Borisov pr-3.exe
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\bin\Debug\Borisov pr-3.pdb
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.csproj.AssemblyReference.cache
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\MainWindow.g.cs
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Pages\Autho.g.cs
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\App.g.cs
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3_MarkupCompile.cache
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3_MarkupCompile.lref
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\App.baml
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\MainWindow.baml
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Pages\Autho.baml
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.g.resources
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Borisov_pr_3.Properties.Resources.resources
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.csproj.GenerateResource.cache
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.csproj.CoreCompileInputs.cache
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.exe
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.pdb
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\bin\Debug\EntityFramework.dll
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\bin\Debug\EntityFramework.SqlServer.dll
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\bin\Debug\EntityFramework.xml
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\bin\Debug\EntityFramework.SqlServer.xml
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\bin\Debug\ru\EntityFramework.resources.dll
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.csproj.CopyComplete
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Pages\Guest.g.cs
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Pages\Guest.baml
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Pages\Register.g.cs
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Pages\Register.baml
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Pages\User1.g.cs
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Pages\User2.g.cs
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Pages\User3.g.cs
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Pages\User1.baml
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Pages\User2.baml
+G:\3 курс\разраб прог мод\PR-6\Borisov pr-3\obj\Debug\Pages\User3.baml
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\bin\Debug\Borisov pr-3.exe.config
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\bin\Debug\Borisov pr-3.exe
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\bin\Debug\Borisov pr-3.pdb
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\bin\Debug\EntityFramework.dll
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\bin\Debug\EntityFramework.xml
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.csproj.AssemblyReference.cache
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\MainWindow.g.cs
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Pages\Autho.g.cs
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Pages\Guest.g.cs
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Pages\Register.g.cs
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Pages\User1.g.cs
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Pages\User2.g.cs
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Pages\User3.g.cs
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\App.g.cs
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3_MarkupCompile.cache
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3_MarkupCompile.lref
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\App.baml
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\MainWindow.baml
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Pages\Autho.baml
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Pages\Guest.baml
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Pages\Register.baml
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Pages\User1.baml
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Pages\User2.baml
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Pages\User3.baml
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.g.resources
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Borisov_pr_3.Properties.Resources.resources
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.csproj.GenerateResource.cache
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.csproj.CoreCompileInputs.cache
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.csproj.CopyComplete
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.exe
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.pdb
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Pages\zabil.g.cs
+C:\Users\pr-21.103k-bf\Desktop\PR-6\Borisov pr-3\obj\Debug\Pages\zabil.baml
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\bin\Debug\Borisov pr-3.exe.config
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\bin\Debug\Borisov pr-3.exe
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\bin\Debug\Borisov pr-3.pdb
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\bin\Debug\EntityFramework.dll
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\bin\Debug\EntityFramework.SqlServer.dll
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\bin\Debug\EntityFramework.xml
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\bin\Debug\EntityFramework.SqlServer.xml
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\bin\Debug\ru\EntityFramework.resources.dll
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.csproj.AssemblyReference.cache
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\MainWindow.g.cs
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Pages\Autho.g.cs
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Pages\Guest.g.cs
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Pages\Register.g.cs
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Pages\User1.g.cs
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Pages\User2.g.cs
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Pages\User3.g.cs
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Pages\zabil.g.cs
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\App.g.cs
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3_MarkupCompile.cache
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3_MarkupCompile.lref
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\App.baml
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\MainWindow.baml
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Pages\Autho.baml
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Pages\Guest.baml
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Pages\Register.baml
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Pages\User1.baml
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Pages\User2.baml
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Pages\User3.baml
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Pages\zabil.baml
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.g.resources
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Borisov_pr_3.Properties.Resources.resources
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.csproj.GenerateResource.cache
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.csproj.CoreCompileInputs.cache
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.csproj.CopyComplete
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.exe
+G:\3 курс\разраб прог мод\ПР-11\PR-6\Borisov pr-3\obj\Debug\Borisov pr-3.pdb

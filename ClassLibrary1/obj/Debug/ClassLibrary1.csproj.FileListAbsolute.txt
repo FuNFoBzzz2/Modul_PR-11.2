@@ -1,0 +1,6 @@
+G:\3 курс\разраб прог мод\PR-6\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+G:\3 курс\разраб прог мод\PR-6\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+G:\3 курс\разраб прог мод\PR-6\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+G:\3 курс\разраб прог мод\PR-6\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+G:\3 курс\разраб прог мод\PR-6\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+G:\3 курс\разраб прог мод\PR-6\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
